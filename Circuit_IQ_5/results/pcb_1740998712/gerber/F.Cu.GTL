@@ -1,0 +1,16 @@
+%TF.GenerationSoftware,CircuitIQ,PCBDesigner,1.0*%
+%TF.CreationDate,20250303024512*%
+%TF.ProjectId,Top copper layer*%
+%TF.Part,Single*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+%MOMM*%
+%ADDD10C,0.254*%
+%ADDD11C,0.508*%
+%ADDD12C,1.016*%
+%ADDD13R,1.524X2.032*%
+%ADDD14C,0.6X0.3*%
+%ADDD15P,1.8X4*%
+%ADDD16C,0.254X0.3X0.4*%
+%ADDD17C,3.0*%

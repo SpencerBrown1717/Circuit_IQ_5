@@ -1,0 +1,9 @@
+flask>=2.0.0,<2.3.0
+PyPDF2>=3.0.0,<3.1.0
+spacy==3.5.0
+numpy>=1.20.0,<1.25.0
+werkzeug>=2.0.0,<2.3.0
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.5.0/en_core_web_md-3.5.0-py3-none-any.whl
+Flask-Caching>=2.0.0,<2.2.0
+Flask-Compress>=1.12.0,<1.14.0
+PyYAML>=6.0
